@@ -1,0 +1,13 @@
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.exe
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.deps.json
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.runtimeconfig.json
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.runtimeconfig.dev.json
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.dll
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\bin\Debug\netcoreapp3.1\Polymorfism.pdb
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.csprojAssemblyReference.cache
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.AssemblyInfoInputs.cache
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.AssemblyInfo.cs
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.dll
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.pdb
+C:\Users\sumat.noocharoen\Source\Repos\Polymorfism\Polymorfism\obj\Debug\netcoreapp3.1\Polymorfism.genruntimeconfig.cache
